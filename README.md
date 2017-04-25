@@ -59,3 +59,37 @@ The Skills and Tools you need to Become a Successful Designer
 
 WTF Is Mixed Reality
 [Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/WTF-is-Mixed-Reality.md) | [Info](http://fitc.ca/presentation/wtf-mixed-reality/)
+
+Beyond Reality: Shaping The Future of Immersive Projects
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Beyond-Reality-Shaping-the-Future-of-Immersive-Projects.md) | [Info](http://fitc.ca/presentation/beyond-reality-shaping-future-immersive-projects-2/)
+
+Calling Voyager: Interface Design for NASA's Deep Space Network
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Calling-Voyager-Interface-Design-for-NASAs-Deep-Space-Network.md) | [Info](http://fitc.ca/presentation/calling-voyager-interface-design-nasas-deep-space-network/)
+
+Creating a Great Career
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Creating-a-Great-Career.md) | [Info](http://fitc.ca/presentation/creating-a-great-career/)
+
+Down the SVG Rabbit Hole
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Down-the-SVG-Rabbit-Hole.md) | [Info](http://fitc.ca/presentation/down-the-svg-rabbit-hole/)
+
+From Data to Experience
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/From-Data-to-Experience.md) | [Info](http://fitc.ca/presentation/from-data-to-experience/)
+
+FUTURE TYPE: Using the History of Typography to Inform the Future of UI
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/FUTURE-TYPE-Using-the-History-of-Typography-to-Inform-the-Future-of-UI.md) | [Info](http://fitc.ca/presentation/future-type-using-history-typography-inform-future-ui/)
+
+Hybrid Body Craft
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Hybrid-Body-Craft.md) | [Info](http://fitc.ca/presentation/hybrid-body-craft/)
+
+Mentoring Open Source
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Mentoring-Open-Source.md) | [Info](http://fitc.ca/presentation/mentoring-open-source/)
+
+Storytelling In The Age of Javascript
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Storytelling-in-the-Age-of-Javascript.md) | [Info](http://fitc.ca/presentation/storytelling-age-javascript/)
+
+The Future of Motion Design
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/The-Future-of-Motion-Design.md) | [Info](http://fitc.ca/presentation/the-future-of-motion-design/)
+
+Tinkers Toolkit
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Tinkerers-Toolkit.md) | [Info](http://fitc.ca/presentation/tinkerers-toolkit-2/)
+
