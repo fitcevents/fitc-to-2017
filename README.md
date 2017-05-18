@@ -6,7 +6,7 @@ http://fitc.ca/event/to17/
 ## Presentation Notes
 
 A Human and a Robot Play a Drawing Game
-[Notes](https://github.com/fitcevents/fitc-to-2017/A-Human-and-a-Robot-Play-a-Drawing-Game.md) |
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/A-Human-and-a-Robot-Play-a-Drawing-Game.md) |
 [Info](http://fitc.ca/presentation/a-human-and-a-robot-play-a-drawing-game/)
 
 Augmented Reality Storytelling
