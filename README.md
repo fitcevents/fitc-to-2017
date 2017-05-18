@@ -93,3 +93,40 @@ The Future of Motion Design
 Tinkers Toolkit
 [Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Tinkerers-Toolkit.md) | [Info](http://fitc.ca/presentation/tinkerers-toolkit-2/)
 
+Building a Collaboration Service for the Hololens
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Building-a-Collaboration-Service-for-the-Hololens.md) | [Info](http://fitc.ca/presentation/building-collaboration-service-hololens-2/)
+
+Designing for Voice
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Designing-for-Voice.md) | [Info](http://fitc.ca/presentation/designing-for-voice/)
+
+Faking the Future
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Faking-the-Future.md) | [Info](http://fitc.ca/presentation/faking-the-future-2/)
+
+Fish, Hamsters, and Selfies
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Fish-Hamsters-Hammers-and-Selfies.md) | [Info](http://fitc.ca/presentation/fish-hamsters-hammers-and-selfies/)
+
+Fixing the Visual Web: Lessons Learned From a Six Year Quest
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Fixing-the-Visual-Web-Lessons-From-a-Six-Year-Quest.md) | [Info](http://fitc.ca/presentation/fixing-visual-web-lessons-six-year-quest/)
+
+How We Built a Bot for FITC
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/How-We-Built-a-Bot-for-FITC.md) | [Info](http://fitc.ca/presentation/built-bot-fitc/)
+
+Mass Personalization and Customization
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Mass-Personalization-and-Customization.md) | [Info](http://fitc.ca/presentation/mass-personalization-and-customization/)
+
+No, You First
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/No-You-First.md) | [Info](http://fitc.ca/presentation/no-you-first/)
+
+Sensploration
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Sensploration.md) | [Info](http://fitc.ca/presentation/sensploration/)
+
+The Dos and Don'ts of Motion Design Domination
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/The-Dos-and-Donts-of-Motion-Design-Domination.md) | [Info](http://fitc.ca/presentation/the-dos-and-donts-of-motion-design-domination/)
+
+The Vinyl Server
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/The-Vinyl-Server.md) | [Info](http://fitc.ca/presentation/the-vinyl-server-2/)
+
+Total Eclipse of the Art
+[Notes](https://github.com/fitcevents/fitc-to-2017/blob/master/Total-Eclipse-of-the-Art.md) | [Info](http://fitc.ca/presentation/total-eclipse-art/)
+
+Find all the presentations here http://fitc.ca/event/to17/presentations/
